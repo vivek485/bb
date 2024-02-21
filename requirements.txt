@@ -1,0 +1,11 @@
+streamlit
+pandas
+DateTime
+plotly
+numpy
+time
+ta
+asyncio
+aiohttp
+nest-asyncio
+
